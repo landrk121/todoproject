@@ -1,3 +1,3 @@
 # todoproject
-Udemyのコースで作成したアプリケーション
+Udemyのコースで作成したアプリケーション　　
 Djangoの練習
